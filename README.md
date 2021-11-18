@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abdulrafeh-Knarkz
 - 👀 I’m interested in Mobile App development
-- 🌱 I’m currently learning Flutter
 - 📫 Reach me on Instagram @iamrafeh.dev
 
 <!---
